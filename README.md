@@ -4,6 +4,8 @@
 
 wakminは制作者本人ではありませんが、本人の許可を得て、代理で公開しています。
 
+# [ダウンロードはこちらからどうぞ ELDataAnalyzer.zip](https://github.com/wakmin-oxo/ELDataAnalyzer/releases/latest/download/ELDataAnalyzer.zip)
+
 以下、制作者によるreadmeをコピペします。
 
 ---------------------------------------
