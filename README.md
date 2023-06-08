@@ -6,6 +6,8 @@ wakminは制作者本人ではありませんが、本人の許可を得て、�
 
 # [ダウンロードはこちらからどうぞ ELDataAnalyzer.zip](https://github.com/wakmin-oxo/ELDataAnalyzer/releases/latest/download/ELDataAnalyzer.zip)
 
+ちなみに、wakminはスタイルなどの解説を行っています。[こちら](https://github.com/wakmin-oxo/Electone_and_MIDI_document)で解説にアクセスできます。
+
 以下、制作者によるreadmeをコピペします。
 
 ---------------------------------------
